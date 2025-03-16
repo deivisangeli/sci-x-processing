@@ -141,6 +141,7 @@ cython_debug/
 *.npy
 *.npz
 *.gz
+*.gz.*
 *.xlsx
 data/ids/allTop150academics.txt
 data/ids/top150filtered.txt
